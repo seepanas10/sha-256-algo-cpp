@@ -14,5 +14,6 @@ security, respectively, against collision attacks. Since the goal of the new Adv
 SHA-256 is a 256-bit hash and is meant to provide 128 bits of security against collision attacks. Similarly, SHA-512 is a 512-bit hash, and is meant to provide 256 bits of security against collision attacks.
 
 
+![image](https://user-images.githubusercontent.com/106404249/185105203-432dd9f8-4071-4182-9035-201c53668ac8.png)
 
 
